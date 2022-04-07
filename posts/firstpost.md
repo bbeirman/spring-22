@@ -1,7 +1,7 @@
 ---
-title: My Resume
-description: This is my resume of my education and work experience.
-date: 2018-05-01
+title: Brock Beirman's Resume
+description: This is Brock Beirman's resume filled with information like education and work experience.
+date: 2022-07-4
 tags:
   - another tag
 layout: layouts/post.njk

@@ -1,6 +1,6 @@
 ---
 title: My Resume
-description: This is my resume of my work education and work experience.
+description: This is my resume of my education and work experience.
 date: 2018-05-01
 tags:
   - another tag

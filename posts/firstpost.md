@@ -1,6 +1,6 @@
 ---
-title: Brock Beirman's Resume
-description: This is Brock Beirman's resume filled with information like education and work experience.
+title: My Resume - Brock Beirman
+description: This is my resume that is filled with my education and work experience.
 date: 2022-07-4
 tags:
   - another tag

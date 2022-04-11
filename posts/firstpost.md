@@ -1,5 +1,5 @@
 ---
-title: My Resume - Brock Beirman
+title: My Resume (Brock Beirman)
 description: This is my resume that is filled with my education and work experience.
 date: 2022-07-4
 tags:

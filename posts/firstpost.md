@@ -1,7 +1,7 @@
 ---
 title: My Resume (Brock Beirman)
 description: This is my resume that is filled with my education and work experience.
-date: 2022-07-4
+date: 2022-07-04
 tags:
   - another tag
 layout: layouts/post.njk

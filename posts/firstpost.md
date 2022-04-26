@@ -7,13 +7,11 @@ tags:
 layout: layouts/post.njk
 ---
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+## About Brock Beirman
+Brock Beirman is a Journalism and Mass Communications student at Iowa State University who is looking to get into the sports media world. He has experience covering various sporting events through videography, photography and broadcasting. He was the creator of the high school sports media club at Ballard High School known as the Ballard Network. Brock has a Video Production Diploma and Certificate from DMACC and is expected to graduate from Iowa State University in the spring of 2023. He is very passionate about sports media and is willing to go the extra mile to produce great content.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
 
-## Brock Beirman
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
 
 ```text/2-3
 // this is a command

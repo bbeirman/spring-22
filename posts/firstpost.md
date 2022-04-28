@@ -1,6 +1,6 @@
 ---
 title: My Resume (Brock Beirman)
-description: This is my resume that is filled with my education and work experience.
+description: Meet Brock Beirman and learn a little about his passion for sports media and content creation.
 date: 2022-07-04
 tags:
   - another tag

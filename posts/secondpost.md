@@ -1,7 +1,7 @@
 ---
 title: My Work - Brock Beirman
 description: Take a look at some of Brock Beirman's work.
-date: 2018-07-04
+date: 2022-08-28
 tags:
   - number 2
 layout: layouts/post.njk

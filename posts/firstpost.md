@@ -1,6 +1,6 @@
 ---
 title: My Resume (Brock Beirman)
-description: Meet Brock Beirman and learn a little about his passion for sports media and content creation.
+description: Learn a little about Brock Beirman and his passion for sports media and content creation.
 date: 2022-07-04
 tags:
   - another tag
